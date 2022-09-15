@@ -1,1 +1,1 @@
-# basico-php-platzi
+# Curso de PHP para Principiantes
